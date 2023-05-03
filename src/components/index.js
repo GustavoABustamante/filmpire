@@ -1,0 +1,5 @@
+export { default as Actores } from "./Actores/Actores"
+export { default as InformacionPelicula } from "./InformacionPelicula/InformacionPelicula"
+export { default as Peliculas } from "./Peliculas/Peliculas"
+export { default as NavBar } from "./NavBar/NavBar"
+export { default as Perfil } from "./Perfil/Perfil"
